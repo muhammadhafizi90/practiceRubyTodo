@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Reference : https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3
 
 Things you may want to cover:
 
